@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.sil.ukelele.keyboardlayout.colemak(esperanto)</string>
+	<key>CFBundleName</key>
+	<string>Colemak (Esperanto)</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>KLInfo_Colemak (Esperanto)</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.colemak(esperanto).colemak(esperanto)</string>
+		<key>TISIntendedLanguage</key>
+		<string>eo</string>
+	</dict>
+</dict>
+</plist>
